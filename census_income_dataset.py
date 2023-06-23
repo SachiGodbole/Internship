@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-df=pd.read_csv("C:/Users/HRUDAYA TUSHAR KINI/Desktop/census_income_dataset/adult.csv")
+df=pd.read_csv("C:/Users/Sachi Godbole/Desktop/census_income_dataset/adult.csv")
 print(df.head())
 
 #getting the information
